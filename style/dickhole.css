@@ -20,3 +20,15 @@ margin-right: 10px;
 .update {
 	color: grey;
 }
+
+.easter1 {
+	z-index: 3;
+	position: absolute;
+	left:720;
+	top:135;
+	opacity: 0;
+}
+
+.container {
+            position: relative;
+        }

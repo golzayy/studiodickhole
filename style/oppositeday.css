@@ -1,0 +1,23 @@
+body {
+            background-image: url('bg2.png');
+            background-repeat: repeat; /* This will tile the image */
+			background-size: 200px auto;
+			font-family: Arial;
+			color:white;
+ }
+ 
+
+.sigma {
+border-color: black;
+border-style: solid;
+}
+
+.navbutton {
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.h1 {
+color: white;	
+}

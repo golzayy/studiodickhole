@@ -32,3 +32,12 @@ margin-right: 10px;
 .container {
             position: relative;
         }
+		
+.easter2 {
+	z-index: 3;
+	position: absolute;
+	left:740;
+	top:135;
+	opacity: 0;
+}
+

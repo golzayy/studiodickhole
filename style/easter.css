@@ -1,0 +1,15 @@
+.easter3 {
+	z-index: 3;
+	position: absolute;
+	left:246;
+	top:210;
+	opacity: 0;
+}
+
+.easter4 {
+	z-index: 3;
+	position: absolute;
+	left:255;
+	top:288;
+	opacity: 0;
+}
